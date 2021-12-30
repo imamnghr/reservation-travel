@@ -1,0 +1,35 @@
+.about-content {
+  margin: 0 auto;
+  height: 100vh;
+  background-size: cover;
+
+  .title-about {
+    position: absolute;
+    left: 540px;
+    right: 541px;
+    top: 171px;
+    bottom: 465px;
+    text-align: center;
+    font-family: Pacifico;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 84px;
+    color: #FCB371;
+  }
+
+  .desc-about {
+    position: absolute;
+    width: 768px;
+    height: 190px;
+    left: 290px;
+    top: 301px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    color: white;
+  }
+}

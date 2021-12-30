@@ -1,7 +1,10 @@
 @import 'components/clear';
 
 // Import LandingPage Components
+@import 'components/landingPage/globalLandingPage';
 @import 'components/landingPage/home';
+@import 'components/landingPage/about';
+@import 'components/landingPage/reservation';
 
 
 // Import Google Fonts
